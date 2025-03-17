@@ -1,7 +1,7 @@
 This is the Official Repository of "Rewards Maximization Is Enough for Fast Photo-Realistic Text-to-image Generation", by *Yihong Luo, Tianyang Hu, Weijian Luo, Kenji Kawaguchi, Jing Tang*. 
 
 
-🚀  We introduce **R0**, a novel con ditional generation approach via regularized re ward maximization. **R0 is the first RLHF algorithm that enables post-training diffusion to few-step text-to-image generator without rely on diffusion distillation or images**.
+🚀🚀🚀We introduce **R0**, a novel conditional generation approach via regularized reward maximization. **R0 is the first RLHF algorithm that enables post-training diffusion to few-step text-to-image generator without relying on diffusion distillation or images**.
 
 ![teaser](assets/teaser.jpg)
 
