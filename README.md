@@ -1,4 +1,4 @@
-This is the Official Repository of "[Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation](https://huggingface.co/papers/2503.13070)", by *Yihong Luo, Tianyang Hu, Weijian Luo, Kenji Kawaguchi, Jing Tang*. 
+This is the Official Repository of "[Rewards Are Enough for Fast Photo-Realistic Text-to-image Generation](https://arxiv.org/abs/2503.13070)", by *Yihong Luo, Tianyang Hu, Weijian Luo, Kenji Kawaguchi, Jing Tang*. 
 
 
 🚀🚀🚀We introduce **R0**, a novel conditional generation approach via regularized reward maximization. **R0 is the first RLHF algorithm that enables post-training diffusion to few-step text-to-image generator without relying on diffusion distillation or images**.
